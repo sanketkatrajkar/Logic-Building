@@ -1,4 +1,6 @@
 🧠 Logic Building & Industrial Project Development ( 830+ Codes 🚀 )
+⭐ Star the repo to explore 830+ code examples! 🚀
+
 This repository contains code implementations for the comprehensive programming curriculum taught in the Logic Building with Industrial Project Development batch by Marvellous Infosystems, extended to include Python and JavaScript.
 
 📚 Curriculum Overview
